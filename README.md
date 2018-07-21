@@ -37,4 +37,11 @@ git merge branchname
 
 //we have to merge branches inorder to make changes into files
 
-// rebasing the branches into master
+// rebasing the branches into master be on master branch first and then command below
+git rebase firstBranch
+
+// to generate ssh-keygen for push operation to github
+ssh-keygen
+
+
+
