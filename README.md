@@ -53,4 +53,10 @@ git checkout firstBranch
 git push origin firstBranch
 
 
+// to revert back to old version
+first get log 
+git log
+then copy 8 digit of hexadecimal code
+then
 
+git checkout ae82ddfc revert.txt
