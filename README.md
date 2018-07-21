@@ -34,3 +34,7 @@ git checkout branchname
 
 //merging branch to master be on master first
 git merge branchname
+
+//we have to merge branches inorder to make changes into files
+
+// rebasing the branches into master
