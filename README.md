@@ -40,8 +40,11 @@ git merge branchname
 // rebasing the branches into master be on master branch first and then command below
 git rebase firstBranch
 
-// to generate ssh-keygen for push operation to github
-ssh-keygen
+// to generate ssh-keygen for push operation to github its in users/… id_rsa.pub
+ssh-keygen then go to github website n press ssh and gpe keys and paste the key over there
+
+// Then go to terminal and 
+ssh -T git@github.com
 
 
 
