@@ -47,4 +47,10 @@ ssh-keygen then go to github website n press ssh and gpe keys and paste the key 
 ssh -T git@github.com
 
 
+//to push files to github get into branch or master from which you need to push
+example from firstBranch then
+git checkout firstBranch 
+git push origin firstBranch
+
+
 
