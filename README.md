@@ -25,3 +25,12 @@ git commit -m “message”
 
 //to commit all the files
 git commit -a -m “message”
+
+//create branch
+git branch branchname
+
+//switch to branch
+git checkout branchname
+
+//merging branch to master be on master first
+git merge branchname
